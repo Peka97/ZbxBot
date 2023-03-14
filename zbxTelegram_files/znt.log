@@ -1,0 +1,25 @@
+[2023-03-11 00:18:19,729] - PID:2376 - main() - zbxTelegram.py:498 - INFO: Send to @fluffyq action: test
+[2023-03-11 00:18:20,599] - PID:2376 - main() - zbxTelegram.py:505 - INFO: Connection check passed (http://130.193.42.73/zabbix/)
+[2023-03-11 00:18:20,600] - PID:2376 - get_cache() - zbxTelegram.py:287 - ERROR: Exception occurred: [Errno 2] No such file or directory: '/usr/lib/zabbix/alertscripts/zbxTelegram_files/id.cache'
+[2023-03-11 00:18:20,600] - PID:2376 - get_cache() - zbxTelegram.py:289 - INFO: Cache file created in /usr/lib/zabbix/alertscripts/zbxTelegram_files/id.cache
+[2023-03-11 00:18:20,600] - PID:2376 - get_send_id() - zbxTelegram.py:350 - INFO: Telegram API: method getUpdate: started
+[2023-03-11 00:18:40,925] - PID:2376 - get_send_id() - zbxTelegram.py:392 - ERROR: Exception occurred: Username or groupname not found in the cache file. No access occurred or bot is not added to group "fluffyq" (Add bot group and/or send message to zabbix_qqmonitoring_bot)
+[2023-03-11 00:19:33,417] - PID:2429 - main() - zbxTelegram.py:498 - INFO: Send to @FluffyQ action: test
+[2023-03-11 00:19:33,572] - PID:2429 - main() - zbxTelegram.py:505 - INFO: Connection check passed (http://130.193.42.73/zabbix/)
+[2023-03-11 00:19:33,574] - PID:2429 - get_send_id() - zbxTelegram.py:350 - INFO: Telegram API: method getUpdate: started
+[2023-03-11 00:19:33,811] - PID:2429 - set_cache() - zbxTelegram.py:322 - INFO: Add new id 310804454 for FluffyQ (private) in cache file
+[2023-03-11 00:19:34,375] - PID:2429 - send_messages() - zbxTelegram.py:457 - INFO: Bot @zabbix_qqmonitoring_bot(5430357439) send photo to "@FluffyQ" (310804454).
+[2023-03-11 20:12:21,873] - PID:60474 - main() - zbxTelegram.py:498 - INFO: Send to @Fluffyq action: test
+[2023-03-11 20:12:21,981] - PID:60474 - main() - zbxTelegram.py:505 - INFO: Connection check passed (http://130.193.42.73/zabbix/)
+[2023-03-11 20:12:21,982] - PID:60474 - get_send_id() - zbxTelegram.py:350 - INFO: Telegram API: method getUpdate: started
+[2023-03-11 20:12:22,288] - PID:60474 - get_send_id() - zbxTelegram.py:392 - ERROR: Exception occurred: Username or groupname not found in the cache file. No access occurred or bot is not added to group "Fluffyq" (Add bot group and/or send message to zabbix_qqmonitoring_bot)
+[2023-03-11 20:17:36,327] - PID:60564 - main() - zbxTelegram.py:498 - INFO: Send to @Fluffyq action: test
+[2023-03-11 20:17:36,436] - PID:60564 - main() - zbxTelegram.py:505 - INFO: Connection check passed (http://130.193.42.73/zabbix/)
+[2023-03-11 20:17:36,437] - PID:60564 - get_send_id() - zbxTelegram.py:350 - INFO: Telegram API: method getUpdate: started
+[2023-03-11 20:17:36,722] - PID:60564 - get_send_id() - zbxTelegram.py:392 - ERROR: Exception occurred: Username or groupname not found in the cache file. No access occurred or bot is not added to group "Fluffyq" (Add bot group and/or send message to zabbix_qqmonitoring_bot)
+[2023-03-11 20:17:53,064] - PID:60571 - main() - zbxTelegram.py:498 - INFO: Send to @FluffyQ action: test
+[2023-03-11 20:17:53,172] - PID:60571 - main() - zbxTelegram.py:505 - INFO: Connection check passed (http://130.193.42.73/zabbix/)
+[2023-03-11 20:17:53,797] - PID:60571 - send_messages() - zbxTelegram.py:457 - INFO: Bot @zabbix_qqmonitoring_bot(5430357439) send photo to "@FluffyQ" (310804454).
+[2023-03-11 20:31:59,458] - PID:60815 - main() - zbxTelegram.py:498 - INFO: Send to @FluffyQ action: test
+[2023-03-11 20:31:59,567] - PID:60815 - main() - zbxTelegram.py:505 - INFO: Connection check passed (http://130.193.42.73/zabbix/)
+[2023-03-11 20:32:00,191] - PID:60815 - send_messages() - zbxTelegram.py:457 - INFO: Bot @zabbix_qqmonitoring_bot(5430357439) send photo to "@FluffyQ" (310804454).
